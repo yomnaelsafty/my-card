@@ -1,7 +1,9 @@
 # 🪪 Profile Card
 
+
 A simple and elegant **Profile Card** built using **HTML** and **CSS** only.  
 This project focuses on creating a clean, responsive, and visually appealing design that can be reused for personal portfolios, team sections, or social media profiles.
+[🌐 Open the Page](https://yomnaelsafty.github.io/my-card/)
 
 ---
 
